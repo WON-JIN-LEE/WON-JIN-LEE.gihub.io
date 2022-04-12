@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JIN's Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "LEEWONJIN"
+name                     : "LEE WON JIN"
 description              : "An amazing website."
 url                      : "https://WON-JIN-LEE.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
